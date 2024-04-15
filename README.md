@@ -1,2 +1,3 @@
-# Udacity_Project_2_Image_Classifier
-This repository contains the required submission file for Udacity AI Programming Nano Degree Image Classifier Project-2.  
+# Transfer Learning applied for Building Image Classifier
+This repository shows step by step code to build image classifier from scratch using finetuned model. 
+It utilizes transfer learning approach to solve small data problem. 
